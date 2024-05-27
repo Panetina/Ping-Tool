@@ -24,9 +24,9 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgur.com/RrDMjrX.png"  />
-</div>
+
+<img height="200" src="https://i.imgur.com/RrDMjrX.png"  />
+
 
 ###
 
