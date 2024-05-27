@@ -44,7 +44,7 @@ def update(frame, ping_times, time_stamps, line, address):
 
     line.set_data(range(len(ping_times)), ping_times)
     ax.set_xticks(range(len(time_stamps)))
-    ax.set_xticklabels(time_stamps, rotation=90, ha='center', fontsize=4)
+    ax.set_xticklabels(time_stamps, rotation=90, ha='center', fontsize=6)
     plt.xlim(0, len(ping_times))
     plt.ylim(0, 50)
 
