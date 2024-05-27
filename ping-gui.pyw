@@ -7,7 +7,7 @@ from matplotlib.animation import FuncAnimation
 import tkinter as tk
 from tkinter import simpledialog
 
-plt.style.use('gruvbox.mplstyle')
+plt.style.use('dark_background')
 plt.rcParams.update({'figure.autolayout': True})
 
 log_lines = []
