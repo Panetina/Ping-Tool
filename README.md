@@ -25,7 +25,12 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/6HoTqZM.png"  />
+  <img height="200" src="https://i.imgur.com/RrDMjrX.png"  />
 </div>
 
 ###
+
+To do:
+- don't accept other values except IPs
+- solve an error when using custom themes to have a good dark theme
+- icon issues
