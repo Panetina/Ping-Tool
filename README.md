@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I just created this so I can have evidence against my shitty ISP</p>
+<p align="left">If it's flagged by Windows Defender/Browser scanner. The .exe is not signed, I'm not paying for a ceritificate, if you think it's dangerous you can just run the python script or compile it to an .exe yourself, it's all here.</p>
 
 ###
 
